@@ -8,6 +8,7 @@
 <br>
 
 
+Churning occurs when customers leave and stop buying your product or using your service during a defined time frame. 
 
 Random Forest and Decision Tree models were used for predicting churning. The dataset contains 10000 samples and 10 columns as:
 
@@ -39,7 +40,7 @@ The class imbalance was about
 
 <br>
 <p align="center">
-<img src = "vari.png" "vari.png" width = "750" height = "420">
+<img src = "vari.png" "vari.png" width = "1000" height = "520">
  </p>
 <br>
 
