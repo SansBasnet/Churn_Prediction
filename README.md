@@ -18,18 +18,18 @@ There were missing data on column  5th column which were imputed using mean valu
 0: 8000
 1: 2000
 
-Normally, it is advised to either undersample or collect more data. But for this analysis, I moved ahead to come back after model performance analysis if necessary.
+Normally, it is advised to either undersample or collect more data. But for this analysis, I moved ahead to come back after model performance analysis if necessary. The Random Forest ROC (shown first) and Decision Tree (shown second) gave reasonable results. 
 
 
 <br>
 <p align="center">
-<img src = "RF.png" "RF.png" width = "500" height = "300">
+<img src = "RF.png" "RF.png" width = "500" height = "350">
  </p>
 <br>
 
 
 <br>
 <p align="center">
-<img src = "DT.png" "DT.png" width = "500" height = "300">
+<img src = "DT.png" "DT.png" width = "500" height = "350">
  </p>
 <br>
