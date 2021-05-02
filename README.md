@@ -19,3 +19,10 @@ There were missing data on column  5th column which were imputed using mean valu
 1: 2000
 
 Normally, it is advised to either undersample or collect more data. But for this analysis, I moved ahead to come back after model performance analysis if necessary.
+
+
+<br>
+<p align="center">
+<img src = "RF.png" "RF.png" width = "500" height = "300">
+ </p>
+<br>
