@@ -1,5 +1,14 @@
 # Churn Prediction 
 
+
+<br>
+<p align="center">
+<img src = "churn.png" "churn.png" width = "500" height = "350">
+ </p>
+<br>
+
+
+
 Random Forest and Decision Tree models were used for predicting churning. The dataset contains 10000 samples and 10 columns as:
 
 - CPL_wrt_BC=change in cost per lead with respect to business category
