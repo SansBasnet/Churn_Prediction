@@ -1,6 +1,6 @@
 # Churn Prediction 
 
-Random Forest and Decision Tree models were used for predicting churning. The dataset contains 10 columns as:
+Random Forest and Decision Tree models were used for predicting churning. The dataset contains 10000 samples and 10 columns as:
 
 - CPL_wrt_BC=change in cost per lead with respect to business category
 - client_state=client's location
@@ -12,3 +12,10 @@ Random Forest and Decision Tree models were used for predicting churning. The da
 - avg_budget=average monthly budget spent on advertising campaigns
 - BC=client's business category
 - clicks=number of clicks received
+
+There were missing data on column  5th column which were imputed using mean values. The class imbalance was about 
+
+0: 8000
+1: 2000
+
+Normally, it is advised to either undersample or collect more data. But for this analysis, I moved ahead to come back after model performance analysis if necessary.
