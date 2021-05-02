@@ -22,10 +22,26 @@ Random Forest and Decision Tree models were used for predicting churning. The da
 - BC=client's business category
 - clicks=number of clicks received
 
-There were missing data on column  5th column which were imputed using mean values. The class imbalance was about 
+There were missing data on column  5th column which were imputed using mean values. 
+
+
+<br>
+<p align="center">
+<img src = "missing.png" "missing.png" width = "650" height = "370">
+ </p>
+<br>
+
+
+The class imbalance was about 
 
 0: 8000
 1: 2000
+
+<br>
+<p align="center">
+<img src = "vari.png" "vari.png" width = "750" height = "420">
+ </p>
+<br>
 
 Normally, it is advised to either undersample or collect more data. But for this analysis, I moved ahead to come back after model performance analysis if necessary. The Random Forest ROC (shown first) and Decision Tree (shown second) gave reasonable results. 
 
