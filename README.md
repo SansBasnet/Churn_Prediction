@@ -26,3 +26,10 @@ Normally, it is advised to either undersample or collect more data. But for this
 <img src = "RF.png" "RF.png" width = "500" height = "300">
  </p>
 <br>
+
+
+<br>
+<p align="center">
+<img src = "DT.png" "DT.png" width = "500" height = "300">
+ </p>
+<br>
