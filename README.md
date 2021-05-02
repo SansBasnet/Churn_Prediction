@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-<img src = "churn.png" "churn.png" width = "500" height = "350">
+<img src = "churn.png" "churn.png" width = "620" height = "350">
  </p>
 <br>
 
