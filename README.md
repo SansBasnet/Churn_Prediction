@@ -1,4 +1,4 @@
-# Churn Prediction 
+# Churn Prediction USA TODAY (GANNETT)'s Coding Challenge Problem
 
 
 <br>
